@@ -1,8 +1,8 @@
 {
-    "apiKey": "'AIzaSyB8zMeqReELQtdOfC4z5W-MFhxx8sxy8KI'",
-    "authDomain": "fir-mostajo.firebaseapp.com",
-    "projectId": "fir-mostajo",
-    "storageBucket": "fir-mostajo.appspot.com",
-    "messagingSenderId": "578667557879",
-    "appId": "1:578667557879:web:3b0d6e7032494007b4f4f2"
+  "apiKey": "AIzaSyB8zMeqReELQtdOfC4z5W-MFhxx8sxy8KI",
+  "authDomain": "fir-mostajo.firebaseapp.com",
+  "projectId": "fir-mostajo",
+  "storageBucket": "fir-mostajo.appspot.com",
+  "messagingSenderId": "578667557879",
+  "appId": "1:578667557879:web:3b0d6e7032494007b4f4f2"
 }

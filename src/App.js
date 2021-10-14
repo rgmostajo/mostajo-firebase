@@ -8,15 +8,9 @@ import 'firebase/analytics';
 
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
+import configData from './firebase-config.json';
 
-firebase.initializeApp({
-  apiKey: 'AIzaSyB8zMeqReELQtdOfC4z5W-MFhxx8sxy8KI',
-  authDomain: 'fir-mostajo.firebaseapp.com',
-  projectId: 'fir-mostajo',
-  storageBucket: 'fir-mostajo.appspot.com',
-  messagingSenderId: '578667557879',
-  appId: '1:578667557879:web:3b0d6e7032494007b4f4f2',
-});
+firebase.initializeApp(configData);
 
 const auth = firebase.auth();
 const firestore = firebase.firestore();
