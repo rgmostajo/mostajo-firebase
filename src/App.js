@@ -78,7 +78,7 @@ function ChatRoom() {
     dummy.current.scrollIntoView({ behavior: 'smooth' });
   };
 
-  return (
+  returns (
     <>
       <main>
 
