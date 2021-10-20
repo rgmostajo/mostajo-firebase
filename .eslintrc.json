@@ -20,8 +20,8 @@
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
         "react/prop-types": "off",
-        "no-undefined": "off",
         "no-undef": "off",
+        "no-param-reassign": 0,
         "import/extensions": "off",
         "import/no-unresolved": "off",
         "react/destructuring-assignment": ["off", "always"],
