@@ -1,6 +1,5 @@
 import React, { useRef, useState } from 'react';
 import './App.css';
-import configData from "./firebase-config.json";
 
 import firebase from 'firebase/app';
 import 'firebase/firestore';
